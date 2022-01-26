@@ -40,6 +40,7 @@ p {
 #everythingElse {
     padding: 80px 80px;
     background-color: lightgray;
+    background-image: url(images/moroccan-flower.png);
     display: flex;
     flex-wrap: wrap;
 }
